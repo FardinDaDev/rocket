@@ -10,11 +10,7 @@ import org.bukkit.util.Vector;
 import net.md_5.bungee.api.ChatColor;
 
 public class Main extends JavaPlugin {
-	
-    public Main() {
-
-  }
-    
+   
     @Override
     public void onEnable() {
     	getLogger().info("raket-plugin is aan!");
